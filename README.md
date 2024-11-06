@@ -1,7 +1,15 @@
-## Hi there 👋
+### Hi there 👋
+
+- 🔭 I’m currently working on finding a role where I can collaborate on exciting projects and deliver growth 
+- 🌱 I’m currently learning different aspects of the Data Engineering and Machine Learning Engineering
+- 👯 I’m looking to collaborate on open source projects as well as spinning up solutions for interesting problems!
+- 🤔 I’m looking for help with finding entry-level roles
+- 💬 Ask me about feature engineering, hyperparameter tuning, MLOps, Big Data Tools, Non-relational databases
+- 📫 How to reach me: (https://www.linkedin.com/in/uday-mukhija/)
+- ⚡ Fun fact: Hit me up if you want to discuss a good research paper, a new book or soccer!
 
 <!--
-**udaymukhija3/udaymukhija3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**um2158/um2158** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
